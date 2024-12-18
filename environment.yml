@@ -6,5 +6,5 @@ dependencies:
   - numpy
   - scipy
   - matplotlib
-  - jupyter
-  - voila
+  - jupyter 
+  - voila=0.4.5
