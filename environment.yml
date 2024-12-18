@@ -1,0 +1,9 @@
+name: DNAcalculator
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.*
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyter = 1.1.1
