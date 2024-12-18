@@ -7,4 +7,4 @@ dependencies:
   - scipy
   - matplotlib
   - jupyter 
-  - voila=0.4.5
+  - voila=0.4.0
